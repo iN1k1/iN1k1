@@ -6,8 +6,8 @@
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/your-handle?style=social)](https://twitter.com/your-handle)-->
 
 ## About Me
-- 🔭 I’m currently working on [project name].
-- 🌱 I’m learning [technology or skill].
+- 🔭 I’m currently working on underwater image enhancement methods.
+<!--- 🌱 I’m learning [technology or skill].-->
 - 👯 I’m looking to collaborate on computer vision and deep learning projects that have a positive environmental impact.
 - 💬 Ask me about image/video super resolution, image enhancement, skeleton action recognition, and anomaly detection.
 - 📫 How to reach me: niki.martinel@uniud.it | niki.martinel@gmail.com
