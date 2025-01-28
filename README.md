@@ -2,7 +2,7 @@
 
 <!--![Your Name's GitHub Banner](https://example.com/banner.png)-->
 
-[![GitHub followers](https://img.shields.io/github/followers/iN1k1?style=social)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/iN1k1?style=social)](https://github.com/iN1k1)
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/your-handle?style=social)](https://twitter.com/your-handle)-->
 
 ## About Me
@@ -14,6 +14,12 @@
 
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 
 <!--## Projects
 ### [Project Name](https://github.com/your-username/project-repo)
@@ -27,4 +33,5 @@
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/niki-martinel)
-[![X](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/iN1k1)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](https://twitter.com/iN1k1)
+
