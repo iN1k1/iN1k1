@@ -5,14 +5,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/iN1k1?style=social)](https://github.com/your-username)
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/your-handle?style=social)](https://twitter.com/your-handle)-->
 
-<!--
 ## About Me
 - 🔭 I’m currently working on [project name].
 - 🌱 I’m learning [technology or skill].
-- 👯 I’m looking to collaborate on [type of projects].
-- 💬 Ask me about [topics you're knowledgeable about].
-- 📫 How to reach me: [email or social media links].
--->
+- 👯 I’m looking to collaborate on computer vision and deep learning projects that have a positive environmental impact.
+- 💬 Ask me about image/video super resolution, image enhancement, skeleton action recognition, and anomaly detection.
+- 📫 How to reach me: niki.martinel@uniud.it | niki.martinel@gmail.com
 
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
