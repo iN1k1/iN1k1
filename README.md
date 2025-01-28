@@ -12,7 +12,7 @@
 - 💬 Ask me about image/video super resolution, image enhancement, skeleton action recognition, and anomaly detection.
 - 📫 How to reach me: niki.martinel@uniud.it | niki.martinel@gmail.com
 
-## Skills
+## Skills, Tools and Things I am having fun with!
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
