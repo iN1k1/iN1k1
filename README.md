@@ -29,7 +29,7 @@
 -->
 
 ## GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iN1k1&show_icons=true&theme=ambient_gradient&hide_rank=true&rank_icon=githubl)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iN1k1&show_icons=true&theme=ambient_gradient&rank_icon=githubl)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iN1k1&size_weight=0.5&count_weight=0.5)
 
